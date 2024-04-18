@@ -2,5 +2,6 @@
 
 int main()
 {
-    std::cout<<"Oks!";
+    std::cout<<"Oks!"; // kom z brench kwiecien
+
 }
